@@ -35,6 +35,10 @@ table, th, td, tr {
     min-height: 300px;
     padding: 20px;
 }
+.contact-localization {
+    display: flex;
+    justify-content: space-between;
+}
 .footer {
     display: flex;
     background-color: rgb(99, 56, 240);
