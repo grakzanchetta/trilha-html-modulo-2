@@ -6,7 +6,10 @@ body {
     display: flex;
     justify-content: center;
 }
-
+table, th, td, tr {
+    align-items: center;
+    border: 1px solid black;
+}
 .wrapper {
     width: 1200px;
     display: flex;
